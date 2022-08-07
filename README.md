@@ -25,7 +25,7 @@ code blocks for commands
 
 ## Help
 
-Is there any problem with the program, contact me : [@G-mail](chathurar.99.bc@gmail.com)
+Is there any problem with the program, contact me : chathurar.99.bc@gmail.com
 
 ## Authors
 
