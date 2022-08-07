@@ -20,7 +20,7 @@ Desktop Number Converting Application
 
 * After Install open the Number Converter
 ```
-code blocks for commands
+
 ```
 
 ## Help
@@ -29,8 +29,8 @@ Is there any problem with the program, contact me : chathurar.99.bc@gmail.com
 
 ## Authors
 
-Chathura Ranasinghe
-(+94) 76 183 1436
+* Chathura Ranasinghe
+* (+94) 76 183 1436
 
 ## Version History
 
