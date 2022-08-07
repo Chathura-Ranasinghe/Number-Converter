@@ -11,6 +11,7 @@ Desktop Number Converting Application
 ### Dependencies
 
 * This Application Can install in any windows version.
+* Required .NET 6.0 Desktop Runtime (v6.0.7)
 
 ### Installing
 
