@@ -16,13 +16,6 @@ Desktop Number Converting Application
 
 * To install download this and double click on converter.exe and then click on install.
 
-### Executing program
-
-* After Install open the Number Converter
-```
-
-```
-
 ## Help
 
 Is there any problem with the program, contact me : chathurar.99.bc@gmail.com
